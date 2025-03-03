@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Latihan Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{473441C9-1D29-4D91-9BA1-D99C2D482C32}|Latihan Class\\Latihan Class.vbproj|C:\\Users\\user\\source\\repos\\Latihan Class\\latihan class\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{473441C9-1D29-4D91-9BA1-D99C2D482C32}|Latihan Class\\Latihan Class.vbproj|solutionrelative:latihan class\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473441C9-1D29-4D91-9BA1-D99C2D482C32}|Latihan Class\\Latihan Class.vbproj|C:\\Users\\user\\source\\repos\\Latihan Class\\latihan class\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{473441C9-1D29-4D91-9BA1-D99C2D482C32}|Latihan Class\\Latihan Class.vbproj|solutionrelative:latihan class\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473441C9-1D29-4D91-9BA1-D99C2D482C32}|Latihan Class\\Latihan Class.vbproj|C:\\Users\\user\\source\\repos\\Latihan Class\\latihan class\\persegipanjang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{473441C9-1D29-4D91-9BA1-D99C2D482C32}|Latihan Class\\Latihan Class.vbproj|solutionrelative:latihan class\\persegipanjang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473441C9-1D29-4D91-9BA1-D99C2D482C32}|Latihan Class\\Latihan Class.vbproj|C:\\Users\\user\\source\\repos\\Latihan Class\\latihan class\\persegi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{473441C9-1D29-4D91-9BA1-D99C2D482C32}|Latihan Class\\Latihan Class.vbproj|solutionrelative:latihan class\\persegi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473441C9-1D29-4D91-9BA1-D99C2D482C32}|Latihan Class\\Latihan Class.vbproj|C:\\Users\\user\\source\\repos\\Latihan Class\\latihan class\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{473441C9-1D29-4D91-9BA1-D99C2D482C32}|Latihan Class\\Latihan Class.vbproj|solutionrelative:latihan class\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473441C9-1D29-4D91-9BA1-D99C2D482C32}|Latihan Class\\Latihan Class.vbproj|C:\\Users\\user\\source\\repos\\Latihan Class\\latihan class\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{473441C9-1D29-4D91-9BA1-D99C2D482C32}|Latihan Class\\Latihan Class.vbproj|solutionrelative:latihan class\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473441C9-1D29-4D91-9BA1-D99C2D482C32}|Latihan Class\\Latihan Class.vbproj|C:\\Users\\user\\source\\repos\\Latihan Class\\latihan class\\lingkaran.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{473441C9-1D29-4D91-9BA1-D99C2D482C32}|Latihan Class\\Latihan Class.vbproj|solutionrelative:latihan class\\lingkaran.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Latihan Class\\Latihan Class\\Form2.vb",
+              "RelativeDocumentMoniker": "Latihan Class\\Form2.vb",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Latihan Class\\Latihan Class\\Form2.vb",
+              "RelativeToolTip": "Latihan Class\\Form2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-16T02:22:42.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Latihan Class\\Latihan Class\\Form2.vb",
+              "RelativeDocumentMoniker": "Latihan Class\\Form2.vb",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Latihan Class\\Latihan Class\\Form2.vb [Design]",
+              "RelativeToolTip": "Latihan Class\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-16T02:20:24.132Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persegi.vb",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Latihan Class\\Latihan Class\\Persegi.vb",
+              "RelativeDocumentMoniker": "Latihan Class\\Persegi.vb",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Latihan Class\\Latihan Class\\Persegi.vb",
+              "RelativeToolTip": "Latihan Class\\Persegi.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-16T02:18:16.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lingkaran.vb",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Latihan Class\\Latihan Class\\Lingkaran.vb",
+              "RelativeDocumentMoniker": "Latihan Class\\Lingkaran.vb",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Latihan Class\\Latihan Class\\Lingkaran.vb",
+              "RelativeToolTip": "Latihan Class\\Lingkaran.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-16T02:13:31.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persegipanjang.vb",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Latihan Class\\Latihan Class\\Persegipanjang.vb",
+              "RelativeDocumentMoniker": "Latihan Class\\Persegipanjang.vb",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Latihan Class\\Latihan Class\\Persegipanjang.vb",
+              "RelativeToolTip": "Latihan Class\\Persegipanjang.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-16T02:13:19.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Latihan Class\\Latihan Class\\Form1.vb",
+              "RelativeDocumentMoniker": "Latihan Class\\Form1.vb",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Latihan Class\\Latihan Class\\Form1.vb",
+              "RelativeToolTip": "Latihan Class\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-16T01:49:29.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Latihan Class\\Latihan Class\\Form1.vb",
+              "RelativeDocumentMoniker": "Latihan Class\\Form1.vb",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Latihan Class\\Latihan Class\\Form1.vb [Design]",
+              "RelativeToolTip": "Latihan Class\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-16T01:24:32.419Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
